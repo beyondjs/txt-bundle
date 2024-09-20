@@ -1,6 +1,6 @@
 {
 	"name": "@beyond-js/txt-bundle",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"description": "Texts bundle and processor for BeyondJS",
 	"exports": {
 		".": "./src/index.js",
